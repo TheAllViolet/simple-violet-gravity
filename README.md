@@ -1,3 +1,3 @@
 # C++
 
-To be updated# cpp
+1. [Hypotenuse Calculator](https://github.com/jordanvparry/cpp/hypotenuse.cpp) 
