@@ -1,0 +1,47 @@
+﻿# Ignore everything by default
+*
+
+# Whitelist specific files to track
+!.gitignore
+!CMakeLists.txt
+!main.cpp
+!README.md
+
+# Build directories
+build/
+out/
+bin/
+obj/
+
+# Compiled files
+*.exe
+*.out
+*.app
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.o
+*.obj
+
+# IDE files
+.vs/
+.vscode/
+*.code-workspace
+*.sln
+*.vcxproj*
+*.user
+CMakeSettings.json
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# System files
+.DS_Store
+Thumbs.db

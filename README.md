@@ -1,3 +1,4 @@
 # C++
 
-1. [Hypotenuse Calculator](https://github.com/JordanVParry/cpp/blob/main/Hypotenuse.cpp)
+Simple 2-D multi-source gravity simulation in Cartesian space
+
